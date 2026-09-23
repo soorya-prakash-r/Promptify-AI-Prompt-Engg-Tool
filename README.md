@@ -29,7 +29,6 @@ By making prompt engineering accessible, Promptify! helps users unlock the true 
   - Frontend: Firebase Hosting
   - Backend: Render
 - **Version Control**: Git + GitHub
-- **Hostinger**: Custom domain
 
 ---
 
