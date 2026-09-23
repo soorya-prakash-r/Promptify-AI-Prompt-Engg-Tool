@@ -40,7 +40,6 @@ By making prompt engineering accessible, Promptify! helps users unlock the true 
 - 🗳️ Prompt submission form with real-time feedback
 - 🌟 Top-rated comments viewable by all users
 - 📄 Developer information section
-- 🌐 Deployed with HTTPS and custom domain (`wepromptify.in`)
 
 ---
 
